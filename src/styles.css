@@ -1,0 +1,8 @@
+/* Agrega la fuente Playfair Display a tu archivo CSS */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+/* Configura la fuente para que sea la fuente predeterminada para el cuerpo de la página */
+body {
+  font-family: 'Playfair Display', serif;
+  background: #e9eef0;
+}
